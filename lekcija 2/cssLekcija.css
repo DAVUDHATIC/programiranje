@@ -1,0 +1,54 @@
+div{
+  background-color: aqua;
+}
+body{
+  background-color: black;
+}
+h1{
+  color: rebeccapurple;
+}
+
+#div1{
+  background-color: red;
+}
+
+#div2{
+  background-color: salmon;
+}
+
+.h-class{
+  color: chartreuse;
+}
+
+
+
+#box1{
+  background-color: chartreuse;
+  height: 200px;
+  width: 200px;
+}
+#box2{
+  background-color: chocolate;
+  height: 100px;
+  width: 100px;
+}
+#box3{
+  background-color: blue;
+  height: 200px;
+  width: 150px;
+}
+#box4{
+  background-color: sienna;
+  height: 400px;
+  width: 400px;
+}
+#box5{
+  background-color: white;
+  height: 200px;
+  width: 200px;
+}
+#box6{
+  background-color: red;
+  height: 50px;
+  width: 50px;
+}
