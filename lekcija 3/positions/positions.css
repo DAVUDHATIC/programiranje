@@ -1,0 +1,109 @@
+#parrentDiv{
+  border: 2px solid black;
+  height: 500px;
+  width: 500px;
+}
+
+/*----------------------- FIXED ---------------------------*/
+
+#fixedPlavi{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: fixed;
+  top: 400px;
+}
+
+#fixedCrveni{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: static;
+}
+
+/*----------------------- STICKY ---------------------------*/
+
+#stickyPlavi{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: sticky;
+  position: -webkit-sticky;
+  top:0;
+}
+
+#stickyCrveni{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: static;
+}
+
+
+/*----------------------- ABSOLUTE ---------------------------*/
+
+#absolutePlavi{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+  left: 200px;
+  top: 1500px;
+}
+
+#absoluteCrveni{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: static;
+}
+
+/*----------------------- RELATIVE ---------------------------*/
+
+#relativePlavi{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: relative;
+  left: 30px;
+  top: 200px; 
+}
+
+#relativeCrveni{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: static;
+}
+
+#relativeNaslov{
+  position: relative;
+  left: 200px;
+}
+
+#relativePodnaslov{
+  position: static;
+}
+
+/*----------------------- Float ---------------------------*/
+
+#floatPlavi{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  float: left;
+}
+
+#floatCrveni{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  float: left;
+}
+
+#floatZeleni{
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  float: left;
+}

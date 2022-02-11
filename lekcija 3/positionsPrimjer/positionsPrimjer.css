@@ -1,0 +1,35 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+#header{
+  background-color: aqua;
+  height: 100px;
+  width: 100%;
+}
+
+
+#topMenu{
+  background-color: darkslategray;
+  height: 70px;
+  width: 100%;
+  position: sticky;
+  top: 0;
+}
+
+#menuLeft{
+  background-color: darkgrey;
+  width: 20%;
+  position: fixed;
+  top: 170px;
+  bottom: 0;
+  overflow-y: scroll;
+}
+
+#content{
+  height: 3000px;
+  background-color:blue ;
+  float: right;
+  width: 80%;
+}
