@@ -1,0 +1,38 @@
+#parrent1{
+  height: 500px;
+  width: 500px;
+  border: 3px solid black;
+  padding-left: 30px;
+  padding-top: 50px;
+}
+
+#child1{
+  width: 200px;
+  height: 200px;
+  background-color: #566d5d;
+}
+
+#parrent2{
+  height: 500px;
+  width: 500px;
+  border: 3px solid black;
+}
+
+#child2{
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  margin-left: 30px;
+  margin-top: 50px;
+  padding: 30px;
+}
+
+#child3{
+  width: 200px;
+  height: 200px;
+  background-color: darkblue;
+}
+
+p{
+  margin: 0;
+}
