@@ -1,0 +1,7 @@
+.slika {
+    width: 250;
+    height: 300;
+}
+img.slika.rounded-corners {
+    border-radius: 50px
+}
