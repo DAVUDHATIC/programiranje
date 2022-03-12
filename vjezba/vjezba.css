@@ -1,0 +1,145 @@
+#body{
+    margin: 0%;
+    padding: 0%;
+}
+#name{
+    width: 100%;
+    height: 50px;
+    background-color: #001219;
+    
+}
+#toptext{
+    font-size: 160%;
+    color: white;
+    margin: 0%;
+    position: absolute;
+    top: 10px;
+    left: 25px;
+}
+#topPart{
+   height: 600px;
+   background-color: #005f73;
+}
+#lefthalf{
+    background-color: #94d2bd;
+    height: 600px;
+    width: 510px;
+}
+#ownerpicture{
+    position: relative;   
+    margin: 0%;
+    padding: 0%;   
+    height: 210px;
+    width: 230px;
+    top: -450px;
+    left: 370px;
+    box-shadow: 25px 21px 0px 5px white
+    
+   }
+#upperline1{ 
+    display: block; 
+    width: 300px; 
+    height: 3px; 
+    background: white; 
+    position: absolute; 
+    right: 225px; 
+    top: 165px; 
+}
+#uppertext1{ 
+    color:  white;
+     position: relative; 
+     margin: 0%;
+     float: right; 
+     top: -450px; 
+     right: 25%; 
+}
+#uppertext2{ 
+    color: white; 
+    position: relative; 
+    float: right; 
+    top: -380px; 
+    right: 7%; 
+}
+#upperline2{ 
+    display: block; 
+    width: 300px; 
+    height: 3px; 
+    background: white; 
+    position: absolute; 
+    right: 225px; 
+    top: 360px; 
+}
+#lowerpart{
+    height: 1000px;
+    width: 100%;
+    background-color: #001219;
+    position: relative;
+    top: -215px;
+}
+#lowertext{
+    color: white;
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+    float: right;
+    right: 580px;
+    top: 50px;
+    font-size: 50px;
+}
+#tekst1{
+    color: white;
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+    float: right;
+    right: 225px;
+    top: 110px;
+    font-size: 45px;
+}
+#undertext2{
+    color: white;
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+    float: right;
+    top: 200px;
+    right: -77px;
+    font-size: 20px
+}
+#tekst2{
+    color: white;
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+    float: right;
+    top: 235px;
+    right: -370px;
+    font-size: 20px;
+}
+#underpartline1{
+    display: block; 
+    width: 380px; 
+    height: 3px; 
+    background: white; 
+    position: absolute; 
+    top: 100px;
+}
+#underpartline2{display: block; 
+width: 380px; 
+height: 3px; 
+background: white; 
+position: absolute;
+top: 100px;
+left: 1139px;
+}
+#underpartimage1{
+    position: relative;
+    float: right;
+    top: 380px;
+    right: -850px;
+}
+#underpartimage2{
+    position: relative;
+    top: 130px;
+    left: 350px;
+}
